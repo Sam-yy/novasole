@@ -1,0 +1,1 @@
+console.log("NOVA SOLE website loaded successfully!");
